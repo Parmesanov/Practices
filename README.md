@@ -1,3 +1,3 @@
 # PracticaProgX
-<p>Hola gente de H9</p>
-<h1>H9 ProgX</h1>
+<p>Hola a todos. </p>
+<h1> ProgX</h1>
